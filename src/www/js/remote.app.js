@@ -1,9 +1,8 @@
-
 angular.module("remote", 
 [
-    'ngTouch',
-    'ngRoute',
-    'ngAnimate',
-    'ngResource',
-    'ui.bootstrap'
+    	'ngTouch',
+	'ngRoute',
+    	'ngAnimate',
+  	'ngResource',
+    	'ui.bootstrap'
 ]);
